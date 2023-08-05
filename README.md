@@ -1,6 +1,5 @@
 # E-Commerce-App
 
-# E-Commerce App using React and Strapi
 
 This repository contains an E-Commerce web application built with React and Strapi. The app provides a user-friendly interface for browsing and purchasing products, as well as managing the product inventory through the Strapi CMS.
 
@@ -92,4 +91,4 @@ Special thanks to the open-source community and the authors of the libraries and
 
 If you have any questions or need further assistance, feel free to contact the project maintainers:
 
-- Your Name: ahuklaarav10@gmail.com
+- Your Name: shuklaarav10@gmail.com
